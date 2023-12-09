@@ -2,7 +2,7 @@
   "name": "H3XG0D",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://h3xg0d.github.io",
+  "homepage": "https://h3xg0d.github.io",
   "dependencies": {
     "@react-three/fiber": "^8.0.12",
     "@testing-library/jest-dom": "^5.11.10",
