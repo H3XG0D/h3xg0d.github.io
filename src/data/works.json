@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Retaily",
+    "categ": "Mobile E-Commerce | React Native",
+    "descr": "My initial venture into commercial mobile applications was a shopping platform, a project that significantly enhanced my expertise. This experience allowed me to navigate and overcome numerous challenges associated with developing large-scale applications. Also, the code showcased here represents my earlier work. Due to non-disclosure agreements, I am unable to display all the most recent updates.",
+    "img": "./img/works/retaily.png",
+    "tags": [
+      "REACT NATIVE",
+      "REACT NAVIGATION",
+      "ASP.NET",
+      "TYPESCRIPT",
+      "ANDROID",
+      "IOS",
+      "REDUX"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "src": "https://github.com/H3XG0D/ReworkRetaily-RN.git"
+      },
+      {
+        "icon": "googlePlay",
+        "src": "https://play.google.com/store/apps/details?id=retaily.online"
+      },
+      {
+        "icon": "appStore",
+        "src": "https://apps.apple.com/ru/app/retaily-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B/id1561434758"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "YktExpress",
+    "categ": "Mobile E-Commerce | React",
+    "descr": "I spearheaded the development of a commercial mobile e-commerce application, overseeing the project from its inception to its successful launch on both the AppStore and Google Play.",
+    "img": "./img/works/yktexpress.png",
+    "tags": [
+      "REACT NATIVE",
+      "REACT NAVIGATION",
+      "REACT REANIMATED",
+      "NODE.JS",
+      "JAVASCRIPT",
+      "ANDROID",
+      "IOS",
+      "GRAPHQL",
+      "APOLLO"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "src": "https://github.com/h3xg0d/yktexpress"
+      },
+      {
+        "icon": "googlePlay",
+        "src": "https://play.google.com/store/apps/details?id=com.yktexpress.app"
+      },
+      {
+        "icon": "appStore",
+        "src": "https://apps.apple.com/ru/app/yktexpress/id1670006214"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "YktExpress Admin Dashboard",
+    "categ": "Dashboard | React",
+    "descr": "In developing the 'YktExpress' app, I created an admin panel for moderators to easily add cities, stores, products, and promotions. I used React for a responsive UI, Prisma for PostgreSQL database interaction, and Apollo for GraphQL queries, ensuring the panel's user-friendliness, robustness, and extensibility.",
+    "img": "./img/works/laptop.png",
+    "tags": [
+      "REACT",
+      "REACT ROUTER DOM",
+      "NODE.JS",
+      "JAVASCRIPT",
+      "GRAPHQL",
+      "APOLLO",
+      "PRISMA",
+      "POSTGRESQL"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "src": "https://github.com/H3XG0D/YktExpress/tree/main/admin"
+      },
+      {
+        "icon": "link",
+        "src": "http://admin.yktexpress.ru"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Booky App",
+    "categ": "Mobile Online Booking | React Native",
+    "descr": "I passionately dedicated myself to the development of an application, guiding it from inception to its successful launch on both the App Store and Google Play. Initially embarking on this journey as a self-employed developer, I was subsequently recruited as an integral part of the development team. This role enabled me to lead the project from its preliminary stages to a fully-realized, market-ready product.",
+    "img": "./img/works/booky.png",
+    "tags": [
+      "REACT",
+      "REDUX TOOLKIT",
+      "TYPESCRIPT",
+      "LARAVEL",
+      "ANDROID",
+      "IOS",
+      "GRAPHQL"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "src": "https://github.com/H3XG0D/Booky-App"
+      },
+      {
+        "icon": "googlePlay",
+        "src": "https://play.google.com/store/apps/details?id=co.booky.client"
+      },
+      {
+        "icon": "appStore",
+        "src": "https://apps.apple.com/ru/app/booky-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/id1642270495"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Youps App",
+    "categ": "Games & Outfits | React Native",
+    "descr": "Here's my latest project from Moscow, an app developed with a startup team. I played a key role in launching it on the App Store and Google Play, enhancing my React Native and Typescript skills. I focused on crafting new features and hooks, demonstrating my expertise in delivering quality, user-focused solutions in a fast-paced setting.",
+    "img": "./img/works/youps.png",
+    "tags": [
+      "REACT NATIVE",
+      "REACT NAVIGATION",
+      "REACT REANIMATED",
+      "TYPESCRIPT",
+      "DJANGO",
+      "ANDROID",
+      "IOS",
+      "REDUX TOOLKIT",
+      "UNIT TEST",
+      "I18NEXT",
+      "INFINITE SCROLL"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "src": "https://github.com/H3XG0D/Youps-App"
+      },
+      {
+        "icon": "googlePlay",
+        "src": "https://play.google.com/store/apps/details?id=com.apacenow.youps"
+      },
+      {
+        "icon": "appStore",
+        "src": "https://apps.apple.com/ru/app/games-outfits-youps/id1544801102"
+      }
+    ]
+  }
+]
