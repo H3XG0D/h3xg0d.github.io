@@ -1,0 +1,9 @@
+[
+  { "id": 1, "icon": "github", "link": "//github.com/H3XG0D" },
+  {
+    "id": 2,
+    "icon": "telegram",
+    "link": "//t.me/H3XG0D"
+  },
+  { "id": 3, "icon": "mail", "link": "mailto:aiden.meltzer.dev@gmail.com" }
+]
