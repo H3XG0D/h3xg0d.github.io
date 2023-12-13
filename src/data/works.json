@@ -16,10 +16,6 @@
     ],
     "links": [
       {
-        "icon": "github",
-        "src": "https://github.com/H3XG0D/ReworkRetaily-RN.git"
-      },
-      {
         "icon": "googlePlay",
         "src": "https://play.google.com/store/apps/details?id=retaily.online"
       },
@@ -48,10 +44,6 @@
     ],
     "links": [
       {
-        "icon": "github",
-        "src": "https://github.com/h3xg0d/yktexpress"
-      },
-      {
         "icon": "googlePlay",
         "src": "https://play.google.com/store/apps/details?id=com.yktexpress.app"
       },
@@ -79,10 +71,6 @@
     ],
     "links": [
       {
-        "icon": "github",
-        "src": "https://github.com/H3XG0D/YktExpress/tree/main/admin"
-      },
-      {
         "icon": "link",
         "src": "http://admin.yktexpress.ru"
       }
@@ -104,10 +92,6 @@
       "GRAPHQL"
     ],
     "links": [
-      {
-        "icon": "github",
-        "src": "https://github.com/H3XG0D/Booky-App"
-      },
       {
         "icon": "googlePlay",
         "src": "https://play.google.com/store/apps/details?id=co.booky.client"
@@ -138,10 +122,6 @@
       "INFINITE SCROLL"
     ],
     "links": [
-      {
-        "icon": "github",
-        "src": "https://github.com/H3XG0D/Youps-App"
-      },
       {
         "icon": "googlePlay",
         "src": "https://play.google.com/store/apps/details?id=com.apacenow.youps"
